@@ -16,7 +16,7 @@ const arrsAreIdent = (arr1, arr2) => {
 
 const ToUpperCase = (str, index) => (str = str.toUpperCase());
 
-const chars = ['a', 'D', 'g', 'E', 'pDpD'];
+const chars = ['a', 'D', 'g', 'E', 'pDpD', 'LoloOllLo'];
 const charsDup = [...chars];
 
 ForEach(chars, ToUpperCase);
